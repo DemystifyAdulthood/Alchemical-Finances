@@ -40,7 +40,7 @@ Executable
 [Not Found on Github.]
 [https://www.dropbox.com/sh/6hauvozh5ybaoad/AADGMWIEWYdYI-hOdPKZ3DCFa?dl=0]
 --- 1 -- Download the entire "Alchemical Finance" directory from Dropbox
---- 2 -- Within the "Alchemical Finance" directory is Alchemical_Finances.exe
+--- 2 -- Within the "Alchemical Finance" directory is Alchemical Finances.exe
 ---   -- - The .exe file was made using pyinstaller
          pyinstaller --onedir --windowed Executable.pyw --name="Alchemical Finances" --icon=AFLogo.ico
 ***Warning*** --- I find that AntiVirus likes to quarrintine the application. Currently unsure how to work around that. 
