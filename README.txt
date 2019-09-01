@@ -14,8 +14,7 @@ without the need to move to a program like Mint.com / Quicken / Personal Capital
 --- -- [#] Future features are planned [See Bottom for mini pipeline]
 --- The program is built on the concept that people understand their finances better when they interact with them rather than watch them.
 Having the user manually input transactions helps them pay attention to their exspenses and helps them feel in control. The future addition of
-graphs/generated budgets will reinforce this. [Generated budgets will be built from past input data by user selected Categories. Then allow the user
-to build the following months budget]
+graphs/generated budgets will reinforce this. [Generated budgets will be built from past input data by user selected Categories. Then allow the user to build the following months budget]
 
 ------------------------------------------------------------------
 Request to Testers
