@@ -18,11 +18,11 @@ graphs/generated budgets will reinforce this. [Generated budgets will be built f
 to build the following months budget]
 
 ------------------------------------------------------------------
-Request to Alpha Testers
+Request to Testers
 ------------------------------------------------------------------
 --- Please break my program! Find where my coding needs some work and could benefit from some additional attention. Some things to consider
 ---  -- - Test User Inputs, Creating New Accounts, Posting/Selecting/Updating/Deleting Transactions, account details ect. Basically everything at this point.
---- Critique the design and concept. At heart the project is meant for me to replace excel but I am not opposed to public distirbution if the quality/concept is there.
+--- Critique the design and concept. At heart the project is meant for me to replace excel but I would like to share to those interested.
 
 ------------------------------------------------------------------
 Pre-Requisites:
@@ -95,7 +95,7 @@ Pipeline Production - Overview room to expand/Change
 --- 7  -- Ledger to track Large Exspense Purchases
 --- 8  -- Ledger to track Long Term Projects
 --- 9  -- Work on Ui to adjust to user display. [Completed?]
---- 10  -- Rebrand DemystifyAdulthood.com to destribute program
+--- 10  -- Rebrand website to destribute program
        -- -- Purchase Commercial Version of PyQt5
        -- -- Find Initial Beta Testers
        -- -- Will make Visual instructions
